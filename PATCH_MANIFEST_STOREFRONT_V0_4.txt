@@ -1,0 +1,39 @@
+LaVic Storefront v0.4 — Commerce Foundation
+Aplicar sobre o projeto que já contém Storefront v0.3.4 e Admin v0.7.1.
+
+ALTERADOS
+- package.json
+- apps/storefront/package.json
+- apps/storefront/app/globals.css
+- apps/storefront/app/page.tsx
+- apps/storefront/app/sabores/page.tsx
+- apps/storefront/app/kits/page.tsx
+- apps/storefront/app/carrinho/page.tsx
+- apps/storefront/app/checkout/page.tsx
+- apps/storefront/app/encomendas/page.tsx
+- apps/storefront/app/revenda/page.tsx
+- apps/storefront/app/produto/[slug]/page.tsx
+- apps/storefront/app/sitemap.ts
+- apps/storefront/components/cart-provider.tsx
+- apps/storefront/components/product-grid.tsx
+- apps/storefront/components/product-purchase.tsx
+- apps/storefront/components/site-header.tsx
+- apps/storefront/components/site-footer.tsx
+- apps/storefront/components/structured-data.tsx
+- apps/storefront/data/mocks/products.ts
+- apps/storefront/data/mocks/kits.ts
+
+NOVOS
+- apps/storefront/components/catalog-view.tsx
+- apps/storefront/components/kit-purchase.tsx
+- apps/storefront/components/checkout-flow.tsx
+- apps/storefront/components/shop-preview-section.tsx
+- apps/storefront/components/account-shell.tsx
+- apps/storefront/app/conta/page.tsx
+- apps/storefront/app/conta/pedidos/page.tsx
+- apps/storefront/app/conta/enderecos/page.tsx
+- apps/storefront/app/pedido/confirmado/page.tsx
+- apps/storefront/app/not-found.tsx
+- tooling/validate-storefront-v0.4.mjs
+- VALIDAR_STOREFRONT_V0_4.cmd
+- docs/STOREFRONT_V0_4.md

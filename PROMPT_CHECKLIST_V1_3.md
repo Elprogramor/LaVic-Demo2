@@ -1,0 +1,23 @@
+# Checklist — v1.3
+
+- [x] Capturas manuais do usuário usadas como diagnóstico visual.
+- [x] Não continuar empilhando overrides em `home-v10`.
+- [x] Criada home isolada `HomeFigmaV13`.
+- [x] Canvas desktop 1440 × 5230.
+- [x] CSS do Figma tratado como fonte de verdade para a geometria desktop.
+- [x] Header isolado.
+- [x] Hero isolado.
+- [x] CTA duplicado removido.
+- [x] Testimonial reestruturado para eliminar sobreposição da quote.
+- [x] Grid dos quatro sabores em posições fixas do Figma.
+- [x] Painel verde em 1401 × 700 / radius 32.
+- [x] Institucional em x=89/y=2669.
+- [x] Showcase em y=2978.
+- [x] Preço do Espumante não quebra linha.
+- [x] CTA e thumbs do showcase independem da altura do preço.
+- [x] Trust / B2B / footer mantêm coordenadas do CSS exportado.
+- [x] Framer Motion removido da camada exata para não alterar screenshot.
+- [x] Nenhuma URL temporária do Figma adicionada.
+- [x] Nenhum `dangerouslySetInnerHTML` introduzido.
+- [x] Responsividade básica preservada abaixo de 900px.
+- [x] Validador executa auditoria, typecheck e build no ambiente real.

@@ -1,0 +1,29 @@
+LaVic Admin v0.7 — Governança + Segurança
+Patch incremental sobre a v0.6 aprovada.
+
+MODIFICADOS
+package.json
+apps/admin/app/layout.tsx
+apps/admin/app/styles.css
+apps/admin/components/admin-shell.tsx
+apps/admin/components/icon.tsx
+apps/admin/data/mock-admin.ts
+apps/admin/lib/types.ts
+apps/admin/lib/permissions.ts
+
+NOVOS
+VALIDAR_ADMIN_V0_7.cmd
+tooling/validate-admin-v0.7.mjs
+apps/admin/app/team/page.tsx
+apps/admin/app/team/roles/page.tsx
+apps/admin/app/team/sessions/page.tsx
+apps/admin/app/team/audit/page.tsx
+apps/admin/app/settings/security/page.tsx
+apps/admin/components/team-subnav.tsx
+apps/admin/components/team-status.tsx
+apps/admin/components/team-users-view.tsx
+apps/admin/components/team-sessions-view.tsx
+apps/admin/components/audit-log-view.tsx
+docs/ADMIN_GOVERNANCE_V0_7.md
+ADMIN_V0_7_DELIVERY.md
+PATCH_MANIFEST_V0_7.txt

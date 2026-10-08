@@ -1,0 +1,15 @@
+{
+  "name": "lavic-platform-clean",
+  "version": "3.0.0",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "scripts": {
+    "dev": "npm run dev -w @lavic/storefront",
+    "dev:storefront": "npm run dev -w @lavic/storefront",
+    "dev:admin": "npm run dev -w @lavic/admin",
+    "build": "npm run build -w @lavic/storefront && npm run build -w @lavic/admin",
+    "typecheck": "npm run typecheck -w @lavic/storefront && npm run typecheck -w @lavic/admin",
+    "validate": "node tooling/validate-v3-clean.mjs"
+  },
+  "engines": { "node": ">=24" }
+}

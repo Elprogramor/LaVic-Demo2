@@ -1,0 +1,18 @@
+LaVic Storefront v0.6 — Home Refinement
+
+Aplicar sobre a Storefront v0.5.
+
+Arquivos alterados/adicionados:
+- package.json
+- VALIDAR_STOREFRONT_V0_6.cmd
+- tooling/validate-storefront-v0.6.mjs
+- STOREFRONT_V0_6_DELIVERY.md
+- docs/STOREFRONT_V0_6.md
+- apps/storefront/app/page.tsx
+- apps/storefront/app/globals.css
+- apps/storefront/components/home-v06.tsx
+- apps/storefront/content/home-v06.ts
+- apps/storefront/public/home-v06/**
+
+Observação:
+- A pasta /public/home-v05 pode permanecer no projeto por compatibilidade/histórico, mas a Home v0.6 usa apenas /public/home-v06.

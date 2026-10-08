@@ -1,0 +1,39 @@
+LaVic Admin v0.5 — Marketing + Loja
+Patch incremental sobre v0.4
+
+Arquivos alterados/adicionados:
+- ADMIN_V0_5_DELIVERY.md
+- VALIDAR_ADMIN_V0_5.cmd
+- apps/admin/app/marketing/campaigns/page.tsx
+- apps/admin/app/marketing/coupons/page.tsx
+- apps/admin/app/marketing/page.tsx
+- apps/admin/app/marketing/performance/page.tsx
+- apps/admin/app/marketing/promotions/page.tsx
+- apps/admin/app/store/banners/page.tsx
+- apps/admin/app/store/content/page.tsx
+- apps/admin/app/store/flavors/page.tsx
+- apps/admin/app/store/highlights/page.tsx
+- apps/admin/app/store/page.tsx
+- apps/admin/app/store/seo/page.tsx
+- apps/admin/app/styles.css
+- apps/admin/components/admin-shell.tsx
+- apps/admin/components/campaigns-view.tsx
+- apps/admin/components/coupons-view.tsx
+- apps/admin/components/marketing-performance-view.tsx
+- apps/admin/components/marketing-status.tsx
+- apps/admin/components/marketing-subnav.tsx
+- apps/admin/components/promotions-view.tsx
+- apps/admin/components/store-banners-view.tsx
+- apps/admin/components/store-content-view.tsx
+- apps/admin/components/store-flavors-view.tsx
+- apps/admin/components/store-highlights-view.tsx
+- apps/admin/components/store-home-view.tsx
+- apps/admin/components/store-seo-view.tsx
+- apps/admin/components/store-status.tsx
+- apps/admin/components/store-subnav.tsx
+- apps/admin/data/mock-admin.ts
+- apps/admin/lib/permissions.ts
+- apps/admin/lib/types.ts
+- docs/ADMIN_MARKETING_STORE_V0_5.md
+- package.json
+- tooling/validate-admin-v0.5.mjs

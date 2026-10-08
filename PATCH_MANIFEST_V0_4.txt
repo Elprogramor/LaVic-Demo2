@@ -1,0 +1,20 @@
+LaVic Admin v0.4 — Revenda / B2B
+Aplicar sobre a v0.3 aprovada.
+
+Arquivos alterados/adicionados neste patch:
+- package.json
+- VALIDAR_ADMIN_V0_4.cmd
+- ADMIN_V0_4_DELIVERY.md
+- tooling/validate-admin-v0.4.mjs
+- docs/ADMIN_B2B_V0_4.md
+- apps/admin/app/page.tsx
+- apps/admin/app/styles.css
+- apps/admin/app/b2b/**
+- apps/admin/components/admin-shell.tsx
+- apps/admin/components/b2b-*.tsx
+- apps/admin/data/mock-admin.ts
+- apps/admin/lib/types.ts
+- apps/admin/lib/permissions.ts
+- apps/admin/lib/b2b.ts
+
+Nenhum arquivo do storefront foi alterado.

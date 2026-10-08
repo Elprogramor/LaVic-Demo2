@@ -1,0 +1,1 @@
+VALIDATION OK\n[OK] top começa em 100%\n[OK] hover termina em 0\n[OK] duração perceptível 700ms\n[OK] curva suave\n[OK] não usa scaleY\n[OK] não usa framer motion\n[OK] reduced motion não zera animação

@@ -1,0 +1,8 @@
+LaVic Admin v0.5.1 — hotfix incremental sobre v0.5
+
+Arquivos alterados/adicionados:
+- ADMIN_V0_5_1_HOTFIX.md
+- PATCH_MANIFEST_V0_5_1.txt
+- VALIDAR_ADMIN_V0_5.cmd
+- package.json
+- tooling/clean-admin-cache.mjs

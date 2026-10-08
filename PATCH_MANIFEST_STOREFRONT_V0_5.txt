@@ -1,0 +1,19 @@
+STOREFRONT V0.5 — ARQUIVOS ALTERADOS/ADICIONADOS
+
+ALTERADOS
+- package.json
+- apps/storefront/app/page.tsx
+- apps/storefront/app/globals.css
+- apps/storefront/components/site-header.tsx
+- apps/storefront/components/site-footer.tsx
+- apps/storefront/content/navigation.ts
+
+ADICIONADOS
+- apps/storefront/components/home-v05.tsx
+- apps/storefront/content/home-v05.ts
+- apps/storefront/public/home-v05/**
+- docs/reference/lavic-home-v05-reference.png
+- docs/STOREFRONT_V0_5.md
+- tooling/validate-storefront-v0.5.mjs
+- VALIDAR_STOREFRONT_V0_5.cmd
+- STOREFRONT_V0_5_DELIVERY.md

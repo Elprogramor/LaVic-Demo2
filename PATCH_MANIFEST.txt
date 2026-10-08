@@ -1,0 +1,27 @@
+LaVic Admin v0.3 — Clientes & CRM
+Aplicar sobre a v0.2 aprovada.
+
+NOVOS
+- apps/admin/app/customers/page.tsx
+- apps/admin/app/customers/segments/page.tsx
+- apps/admin/app/customers/crm/page.tsx
+- apps/admin/app/customers/[id]/page.tsx
+- apps/admin/components/customers-subnav.tsx
+- apps/admin/components/customers-view.tsx
+- apps/admin/components/customer-segments-view.tsx
+- apps/admin/components/customer-crm-view.tsx
+- apps/admin/components/customer-note-composer.tsx
+- docs/ADMIN_CUSTOMERS_CRM_V0_3.md
+- tooling/validate-admin-v0.3.mjs
+- VALIDAR_ADMIN_V0_3.cmd
+- ADMIN_V0_3_DELIVERY.md
+
+ALTERADOS
+- apps/admin/app/orders/[id]/page.tsx
+- apps/admin/app/styles.css
+- apps/admin/components/admin-shell.tsx
+- apps/admin/components/icon.tsx
+- apps/admin/data/mock-admin.ts
+- apps/admin/lib/types.ts
+- apps/admin/lib/permissions.ts
+- package.json
